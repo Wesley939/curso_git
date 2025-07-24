@@ -5,7 +5,7 @@ public class curso {
     int var1 = 10;
     int var2 = 30;
 
-    System.out.println(var1+var2);
+    System.out.println(var1%var2);
     
   }
 }
